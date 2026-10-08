@@ -35,7 +35,7 @@ int main() {
     printf("Your rollno is %d, rollno");
     printf("Your percentage is %f, percentage");
     printf("Your counter is %lf, counter");
-    
+    }
 
 ```
 
