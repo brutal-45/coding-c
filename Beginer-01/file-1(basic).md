@@ -8,7 +8,7 @@
 |float | 4 | %f | 20,50,60,85.36 |
 |double| 8 | % l | 202010101 |
 
-
+{
 ```C
 
 # #include <stdio.h>
