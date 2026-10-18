@@ -6,7 +6,7 @@
 | int | 4 | %d | 1,5,50| e.t.c | 
 |char | 1 | %c | 'A','B','C' |
 |float | 4 | %f | 20,50,60,85.36 |
-|double| 8 | % l | 202010101 |
+|double| 8 | %l | 202010101 |
 
 {
 ```C
@@ -18,13 +18,11 @@ int main() {
     float percen;
     double count;
     
-
     printf("Enter your rollno:");
     scanf("%d",& rollno);
 
     printf("Enter your percentage:");
     scanf("%f",& percen);
-
 
     printf("Enter your counter");
     scanf("%lf",& count);
@@ -35,6 +33,7 @@ int main() {
     printf("Your rollno is %d, rollno");
     printf("Your percentage is %f, percentage");
     printf("Your counter is %lf, counter");
+    return 0;
     }
 
 ```
