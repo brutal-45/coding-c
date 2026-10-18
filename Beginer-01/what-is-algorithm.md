@@ -36,7 +36,7 @@ Step 6: Stop
 2. The Implementation (C Program)
 
 This is how that exact logical algorithm translates directly into C code:
-c
+```c
 #include <stdio.h>
 
 int main() {
@@ -57,4 +57,6 @@ int main() {
     return 0; 
 }
 }
+
+```
 Use code with caution.
