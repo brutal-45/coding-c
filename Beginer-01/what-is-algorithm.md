@@ -56,7 +56,6 @@ int main() {
     // Step 6: Stop
     return 0; 
 }
-}
 
 ```
 Use code with caution.
