@@ -1,3 +1,6 @@
+## Explanation of algorithm :-
+
+
 In C programming, an algorithm is a step-by-step, finite sequence of logical instructions written to solve a specific problem. It serves as the abstract conceptual blueprint or plan of a program before you actually write any actual C code. 
 While an algorithm itself is completely language-independent (usually written in plain English or pseudocode), in the context of C, it represents the foundational logical steps that you will directly translate into variables, loops, and conditional statements inside your functions. 
 
