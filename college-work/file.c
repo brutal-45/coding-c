@@ -1,4 +1,4 @@
-# include<stdio.>
+# include<stdio.h>
   int mian()
 {
   printf("Enter your rollno");
