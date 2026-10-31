@@ -1,4 +1,4 @@
-##Static storage class (The static modifier can be used with local or global variable)
+## Static storage class (The static modifier can be used with local or global variable)
 
 
 ```c
