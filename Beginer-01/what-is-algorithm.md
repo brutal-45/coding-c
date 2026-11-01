@@ -17,10 +17,11 @@ Conceptual Difference: Algorithm vs. Program
 
 A common point of confusion is mixing up the abstract logic with the language syntax.
 
-Metric	Algorithm	C Program
-Definition	The logical design or step-by-step strategy to solve a problem.	The concrete implementation of that logic using syntax.
-Language	Plain English, mathematical notations, or Pseudocode.	Strict C programming language syntax (#include, int main(), etc.).
-Execution	Followed and analyzed by humans on paper.	Compiled by a C compiler into an executable run by a computer.
+| Metric | Algorithm | C Program |
+|--------|-----------|-----------|
+| Definition | The logical design or step-by-step strategy to solve a problem. | The concrete implementation of that logic using syntax. |
+| Language | Plain English, mathematical notations, or Pseudocode. | Strict C programming language syntax (#include, int main(), etc.). |
+| Execution | Followed and analyzed by humans on paper. | Compiled by a C compiler into an executable run by a computer. |
 
 
 Example: Adding Two Numbers
@@ -59,6 +60,7 @@ int main() {
     // Step 6: Stop
     return 0; 
 }
-
 ```
-Use code with caution.
+
+> Same program with an exam-style header and expected output:
+> [`../unit-1-basics/02_algorithm_addition.c`](../unit-1-basics/02_algorithm_addition.c)
