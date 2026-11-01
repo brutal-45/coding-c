@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# build output of this repo's Makefile / build scripts
+bin/
+
